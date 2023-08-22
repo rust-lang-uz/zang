@@ -1,6 +1,6 @@
 [package]
 name = "zang-macro"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Rust language tokens translated to Uzbek"
 homepage = "https://github.com/rust-lang-uz/zang"
