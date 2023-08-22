@@ -11,14 +11,7 @@ Rust language tokens translated to Uzbek
 
 ## Installing 
 
-Add this to your `Cargo.toml`:
-
-```toml
-[dependencies]
-zang-macro = "0.1.0"
-```
-
-or just install it via cargo:
+Just install it via cargo using install command:
 
 ```shell
 cargo install zang-macro
@@ -26,7 +19,7 @@ cargo install zang-macro
 
 ## Usage
 
-You may use it partially by importing our macro or use it as a whole statically calling zang macro. Dictionary is available at: [[reference]](https://github.com/rust-lang-uz/zang/blob/4bca619f5ec0857cf657acb5da30487e7fc0e12e/zang-macro/src/lib.rs#L6C3-L6C3)
+You may use it partially by importing our macro or use it as a whole statically calling zang macro. Dictionary is available at: [[reference]](https://github.com/rust-lang-uz/zang/blob/main/zang-macro/src/lib.rs#L6C3-L6C3)
 
 ```rust
 zang_macro::zang!{
