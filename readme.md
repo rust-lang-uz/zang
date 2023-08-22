@@ -26,7 +26,7 @@ cargo install zang-macro
 
 ## Usage
 
-You may use it partially by importing our macro or use it as a whole statically calling zang macro. Dictionary is available at: https://github.com/rust-lang-uz/zang/blob/4bca619f5ec0857cf657acb5da30487e7fc0e12e/zang-macro/src/lib.rs#L6C3-L6C3
+You may use it partially by importing our macro or use it as a whole statically calling zang macro. Dictionary is available at: [[reference]](https://github.com/rust-lang-uz/zang/blob/4bca619f5ec0857cf657acb5da30487e7fc0e12e/zang-macro/src/lib.rs#L6C3-L6C3)
 
 ```rust
 zang_macro::zang!{
