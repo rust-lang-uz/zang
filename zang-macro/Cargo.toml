@@ -1,0 +1,21 @@
+[package]
+name = "zang-macro"
+version = "0.1.0"
+edition = "2021"
+description = "Rust language tokens translated to Uzbek"
+homepage = "https://github.com/rust-lang-uz/zang"
+documentation = "https://docs.rs/zang-macro"
+repository = "https://github.com/rust-lang-uz/zang"
+authors = ["Sokhibjon Orzikulov <sakhib@orzklv.uz>"]
+readme = "readme.md"
+keywords = ["compiler", "uzbek", "rust"]
+license = "MIT"
+exclude = ["target"]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[lib]
+proc-macro = true
