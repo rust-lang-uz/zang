@@ -15,7 +15,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "Hech" => "None",
         "Natija" => "Result",
         "Shu" => "Self",
-        "yoziq" => "println",
+        "chiqar" => "println",
         "to`xta" => "break",
         "asinxron" => "async",
         "kut" => "await",
