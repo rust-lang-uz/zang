@@ -67,7 +67,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "ha" => "true",
         "tur" => "enum",
         "Guruh" => "Group",
-        "Identatsiya" => "Ident",
+        "Identifikator" => "Ident",
         "TokenOqim" => "TokenStream",
         "TokenDaraxt" => "TokenTree",
         "matnga" => "to_string",
